@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: #FFD700;
+    margin-top: 2%;
+}
+img{
+    height: 60%;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+label,input{
+    margin-bottom:10px;
+}
+
+.login{
+  font-family: 'Righteous', cursive;
+  color: #FFD700;
+}
+
+form{
+    max-width: 650px;
+}
+
+body{
+  background-color: #ff1a1a;
+}
+
+.container{
+
+}
+
+.loginInfo{
+  width: 100%;
+  width: 100vw;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.pass{
+  margin-left: 2em;
+}
+
+button{
+  font-family: 'Righteous', cursive;
+  color: #FFD700;
+  background-color: black;
+  width: 268px;
+  margin-top: 1%;
+}
+
+#passButton{
+  margin-left: 25px;
+}

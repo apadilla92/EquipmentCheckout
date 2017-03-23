@@ -1,0 +1,69 @@
+html{
+    min-height: 100%;
+    position: relative;
+}
+body
+{
+    height: 100%;
+    background-color: #ff1a1a;
+}
+
+h1
+{
+    font-family: 'Righteous', cursive;
+}
+.jumbotron
+{
+    text-align: center;
+    background-color:  #ffffff;
+}
+
+#inventory, #user, #statistics
+{
+    height: 100%;
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+.tab-content
+{
+    height: 100%;
+    background-color: #ffffff;
+}
+.container
+{
+    background-color: #e6e6e6;
+    height: 1000px;
+    width:100%;
+}
+
+.nav
+{
+    padding-top: 15px;
+}
+
+.inner
+{
+    background-color: #ffffff;
+    padding: 15px;
+    height: 100%;
+    margin: 15px;
+}
+
+img
+{
+    margin: auto;
+    height: 100px;
+    width: 150px;
+    display: block;
+}
+
+.blank_row
+{
+    height: 10px;
+    background-color: #FFFFFF;
+}
+
+#totalQuantityNum, #availQuantityNum{
+  font-size: 125%;
+}

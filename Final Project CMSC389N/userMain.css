@@ -1,0 +1,50 @@
+html{
+    min-height: 100%;
+    position: relative;
+}
+body
+{
+    height: 100%;
+    background-color: #ff1a1a;
+}
+
+h1
+{
+    font-family: 'Righteous', cursive;
+}
+
+table
+{
+    background-color: #ffffff;
+}
+
+img
+{
+    margin: auto;
+    height: 100px;
+    width: 150px;
+    display: block;
+}
+.jumbotron
+{
+    text-align: center;
+    background-color:  #ffffff;
+}
+
+.container
+{
+    background-color: #e6e6e6;
+    height: 100%;
+}
+
+#checkOutButton
+{
+    float: right;
+    margin-bottom: 50px;
+}
+
+.logoutButton
+{
+    float: right;
+    margin-right: 30px;
+}
